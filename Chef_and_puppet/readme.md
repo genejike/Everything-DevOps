@@ -22,3 +22,4 @@ Strong programming skills are required to make chef your best friend	System admi
 Configuration automation Role-based access control 
 
 DevOps workflow automation Infrastructure automation 
+![image](https://user-images.githubusercontent.com/75420964/236679026-7f055073-7cbc-411c-9c9f-e14e6c5e85d6.png)
